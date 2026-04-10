@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Editor settings
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Environment files
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.pyc
+.agents/
+skills-lock.json
