@@ -12,7 +12,7 @@ Scanning is evidence and verification. The main job is to edit the target applic
 ## Required Inputs
 
 - Target repository path.
-- Scanner repo path containing `run_twistlock.sh`; use `TWISTLOCK_SCANNER_REPO` when available.
+- Installed skill path containing `scripts/run_twistlock.sh`; if unknown, search for `skills/twistlock-auto-fix`.
 - One or more target image refs, or build/tag commands that produce them.
 - Twistlock token via `TWISTLOCK_TOKEN`; avoid username/password.
 - Build, test, and optional smoke commands.
@@ -42,11 +42,11 @@ Scanning is evidence and verification. The main job is to edit the target applic
 mkdir -p .twistlock-runs/baseline
 TWISTLOCK_REPORT_DIR=.twistlock-runs/baseline \
 TWISTLOCK_TOKEN="$TWISTLOCK_TOKEN" \
-"${TWISTLOCK_SCANNER_REPO:-/path/to/twistlock-scanner}/run_twistlock.sh" \
+skills/twistlock-auto-fix/scripts/run_twistlock.sh \
   -i 'registry.example.com/app:tag'
 ```
 
-For multiple images, repeat `-i`.
+For multiple images, repeat `-i`. If the skill is installed outside the repo root, use the absolute path to `skills/twistlock-auto-fix/scripts/run_twistlock.sh`.
 
 3. **Extract Critical/High findings**
 
@@ -86,7 +86,7 @@ If the helper is unavailable, read `.twistlock-runs/baseline/*/detailed.json` di
 mkdir -p .twistlock-runs/iteration-1
 TWISTLOCK_REPORT_DIR=.twistlock-runs/iteration-1 \
 TWISTLOCK_TOKEN="$TWISTLOCK_TOKEN" \
-"${TWISTLOCK_SCANNER_REPO:-/path/to/twistlock-scanner}/run_twistlock.sh" \
+skills/twistlock-auto-fix/scripts/run_twistlock.sh \
   -i 'registry.example.com/app:fixed-tag'
 ```
 
