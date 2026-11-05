@@ -1,0 +1,4 @@
+interface:
+  display_name: "ESI Performance Review"
+  short_description: "Write full reviews, including General Comments"
+  default_prompt: "Use $esi-performance-review to draft the six My Review comments and General Comments, each at least 100 words, in a casual, direct manager voice with project context and examples. Omit reviewer names and phrases like 'the feedback describes.' Place actual improvement requests in the best-fitting category or General Comments, without adding new advice."

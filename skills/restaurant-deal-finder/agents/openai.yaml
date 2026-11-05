@@ -1,0 +1,4 @@
+interface:
+  display_name: "Restaurant Deal Finder"
+  short_description: "Compare prices across configurable supplier sites"
+  default_prompt: "Use $restaurant-deal-finder to compare my restaurant shopping list across my configured suppliers."
