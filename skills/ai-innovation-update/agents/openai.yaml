@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Innovation Update"
+  short_description: "Turn team reports into monthly AI innovation updates"
+  default_prompt: "Use $ai-innovation-update to summarize the supplied individual Word/PDF reports and my additional notes into F23-AI and Yizhen AI Innovation, following the standard template."

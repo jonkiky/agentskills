@@ -1,0 +1,1717 @@
+[
+  {
+    "supc": "1268572",
+    "description": "Apple Red Delicious Fancy Fresh",
+    "brands": [
+      "RELFRSH"
+    ],
+    "pack_sizes": [
+      "1/125 CT"
+    ],
+    "priced_per_lb": false,
+    "purchase_count": 1,
+    "total_case_quantity": 1,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04242280",
+        "ordered_at": "2026-09-02T16:27",
+        "delivery_date": "2026-09-03",
+        "status": "DELIVERED",
+        "case_quantity": 1,
+        "split_quantity": 0,
+        "source_files": [
+          "Sep 02 2026 04_27 PM.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "7102245",
+    "description": "Bagel Plain Sliced 2.3 Ounce",
+    "brands": [
+      "BKRSCLS"
+    ],
+    "pack_sizes": [
+      "15/6 CT"
+    ],
+    "priced_per_lb": false,
+    "purchase_count": 1,
+    "total_case_quantity": 1,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04254358",
+        "ordered_at": "2026-09-09T14:16",
+        "delivery_date": "2026-09-10",
+        "status": "DELIVERED",
+        "case_quantity": 1,
+        "split_quantity": 0,
+        "source_files": [
+          "Sep 09 2026 02_16 PM.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "7102246",
+    "description": "Bagel Plain Sliced 4 Ounce",
+    "brands": [
+      "BKRSCLS"
+    ],
+    "pack_sizes": [
+      "12/6 CT"
+    ],
+    "priced_per_lb": false,
+    "purchase_count": 2,
+    "total_case_quantity": 3,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04128847",
+        "ordered_at": "2026-07-01T14:13",
+        "delivery_date": "2026-07-02",
+        "status": "DELIVERED",
+        "case_quantity": 2,
+        "split_quantity": 0,
+        "source_files": [
+          "Jul 01, 2026 at 2_13 PM.csv"
+        ]
+      },
+      {
+        "order_number": "04162284",
+        "ordered_at": "2026-07-18T07:52",
+        "delivery_date": "2026-07-23",
+        "status": "DELIVERED",
+        "case_quantity": 1,
+        "split_quantity": 0,
+        "source_files": [
+          "Jul 18 2026 07_52 AM.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "1810910",
+    "description": "Bean Green Trimmed Fresh",
+    "brands": [
+      "IMPFRSH"
+    ],
+    "pack_sizes": [
+      "2/5 LB"
+    ],
+    "priced_per_lb": false,
+    "purchase_count": 8,
+    "total_case_quantity": 17,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04113252",
+        "ordered_at": "2026-06-23T09:42",
+        "delivery_date": "2026-06-25",
+        "status": "DELIVERED",
+        "case_quantity": 2,
+        "split_quantity": 0,
+        "source_files": [
+          "Jun 23 2026 09_42 AM (1).csv",
+          "Jun 23 2026 09_42 AM.csv"
+        ]
+      },
+      {
+        "order_number": "04128847",
+        "ordered_at": "2026-07-01T14:13",
+        "delivery_date": "2026-07-02",
+        "status": "DELIVERED",
+        "case_quantity": 2,
+        "split_quantity": 0,
+        "source_files": [
+          "Jul 01, 2026 at 2_13 PM.csv"
+        ]
+      },
+      {
+        "order_number": "04147582",
+        "ordered_at": "2026-07-12T09:48",
+        "delivery_date": "2026-07-16",
+        "status": "DELIVERED",
+        "case_quantity": 2,
+        "split_quantity": 0,
+        "source_files": [
+          "Jul 12 2026 09_48 AM (1).csv",
+          "Jul 12 2026 09_48 AM.csv"
+        ]
+      },
+      {
+        "order_number": "04172513",
+        "ordered_at": "2026-07-26T16:23",
+        "delivery_date": "2026-07-30",
+        "status": "DELIVERED",
+        "case_quantity": 2,
+        "split_quantity": 0,
+        "source_files": [
+          "Jul 26, 2026 at 4_23 PM.csv"
+        ]
+      },
+      {
+        "order_number": "04222180",
+        "ordered_at": "2026-08-23T18:54",
+        "delivery_date": "2026-08-27",
+        "status": "DELIVERED",
+        "case_quantity": 1,
+        "split_quantity": 0,
+        "source_files": [
+          "Aug 23 2026 06_54 PM.csv"
+        ]
+      },
+      {
+        "order_number": "04242280",
+        "ordered_at": "2026-09-02T16:27",
+        "delivery_date": "2026-09-03",
+        "status": "DELIVERED",
+        "case_quantity": 2,
+        "split_quantity": 0,
+        "source_files": [
+          "Sep 02 2026 04_27 PM.csv"
+        ]
+      },
+      {
+        "order_number": "04254358",
+        "ordered_at": "2026-09-09T14:16",
+        "delivery_date": "2026-09-10",
+        "status": "DELIVERED",
+        "case_quantity": 2,
+        "split_quantity": 0,
+        "source_files": [
+          "Sep 09 2026 02_16 PM.csv"
+        ]
+      },
+      {
+        "order_number": "04261958",
+        "ordered_at": "2026-09-13T19:24",
+        "delivery_date": "2026-09-17",
+        "status": "DELIVERED",
+        "case_quantity": 4,
+        "split_quantity": 0,
+        "source_files": [
+          "Sep 13, 2026 at 7_24 PM (2).csv",
+          "Sep 13, 2026 at 7_24 PM.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "7353754",
+    "description": "Beef Back Ribs Frozen",
+    "brands": [
+      "NICMEAT"
+    ],
+    "pack_sizes": [
+      "1/10 PCE"
+    ],
+    "priced_per_lb": true,
+    "purchase_count": 2,
+    "total_case_quantity": 2,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04162284",
+        "ordered_at": "2026-07-18T07:52",
+        "delivery_date": "2026-07-23",
+        "status": "DELIVERED",
+        "case_quantity": 1,
+        "split_quantity": 0,
+        "source_files": [
+          "Jul 18 2026 07_52 AM.csv"
+        ]
+      },
+      {
+        "order_number": "04242280",
+        "ordered_at": "2026-09-02T16:27",
+        "delivery_date": "2026-09-03",
+        "status": "DELIVERED",
+        "case_quantity": 1,
+        "split_quantity": 0,
+        "source_files": [
+          "Sep 02 2026 04_27 PM.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "3774132",
+    "description": "Beef Chuck Roll N/o Imported Frozen",
+    "brands": [
+      "BCH BLK"
+    ],
+    "pack_sizes": [
+      "3/12# AV"
+    ],
+    "priced_per_lb": true,
+    "purchase_count": 1,
+    "total_case_quantity": 2,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04261958",
+        "ordered_at": "2026-09-13T19:24",
+        "delivery_date": "2026-09-17",
+        "status": "DELIVERED",
+        "case_quantity": 2,
+        "split_quantity": 0,
+        "source_files": [
+          "Sep 13, 2026 at 7_24 PM (2).csv",
+          "Sep 13, 2026 at 7_24 PM.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "6751663",
+    "description": "Beef Chuck Roll Neck Off Extra Trim Usda",
+    "brands": [
+      "RNCHGRL"
+    ],
+    "pack_sizes": [
+      "2/20#AVG"
+    ],
+    "priced_per_lb": true,
+    "purchase_count": 2,
+    "total_case_quantity": 3,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04128847",
+        "ordered_at": "2026-07-01T14:13",
+        "delivery_date": "2026-07-02",
+        "status": "DELIVERED",
+        "case_quantity": 1,
+        "split_quantity": 0,
+        "source_files": [
+          "Jul 01, 2026 at 2_13 PM.csv"
+        ]
+      },
+      {
+        "order_number": "04254358",
+        "ordered_at": "2026-09-09T14:16",
+        "delivery_date": "2026-09-10",
+        "status": "DELIVERED",
+        "case_quantity": 2,
+        "split_quantity": 0,
+        "source_files": [
+          "Sep 09 2026 02_16 PM.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "4917169",
+    "description": "Beef Ground Cab Puckie Frozen",
+    "brands": [
+      "PACKER"
+    ],
+    "pack_sizes": [
+      "80/4 OZ"
+    ],
+    "priced_per_lb": false,
+    "purchase_count": 1,
+    "total_case_quantity": 20,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04172513",
+        "ordered_at": "2026-07-26T16:23",
+        "delivery_date": "2026-07-30",
+        "status": "DELIVERED",
+        "case_quantity": 20,
+        "split_quantity": 0,
+        "source_files": [
+          "Jul 26, 2026 at 4_23 PM.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "5112240",
+    "description": "Beef Round Heel Meat T Hala Frozen",
+    "brands": [
+      "AFG"
+    ],
+    "pack_sizes": [
+      "4/4PC"
+    ],
+    "priced_per_lb": true,
+    "purchase_count": 3,
+    "total_case_quantity": 15,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04147582",
+        "ordered_at": "2026-07-12T09:48",
+        "delivery_date": "2026-07-16",
+        "status": "DELIVERED",
+        "case_quantity": 5,
+        "split_quantity": 0,
+        "source_files": [
+          "Jul 12 2026 09_48 AM (1).csv",
+          "Jul 12 2026 09_48 AM.csv"
+        ]
+      },
+      {
+        "order_number": "04222180",
+        "ordered_at": "2026-08-23T18:54",
+        "delivery_date": "2026-08-27",
+        "status": "DELIVERED",
+        "case_quantity": 6,
+        "split_quantity": 0,
+        "source_files": [
+          "Aug 23 2026 06_54 PM.csv"
+        ]
+      },
+      {
+        "order_number": "04261958",
+        "ordered_at": "2026-09-13T19:24",
+        "delivery_date": "2026-09-17",
+        "status": "DELIVERED",
+        "case_quantity": 4,
+        "split_quantity": 0,
+        "source_files": [
+          "Sep 13, 2026 at 7_24 PM (2).csv",
+          "Sep 13, 2026 at 7_24 PM.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "7164509",
+    "description": "Beef Skirt Inside Dom 25%neu On The Border",
+    "brands": [
+      "BHB/NPM"
+    ],
+    "pack_sizes": [
+      "4/8#AV"
+    ],
+    "priced_per_lb": true,
+    "purchase_count": 2,
+    "total_case_quantity": 3,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04222180",
+        "ordered_at": "2026-08-23T18:54",
+        "delivery_date": "2026-08-27",
+        "status": "DELIVERED",
+        "case_quantity": 1,
+        "split_quantity": 0,
+        "source_files": [
+          "Aug 23 2026 06_54 PM.csv"
+        ]
+      },
+      {
+        "order_number": "04254358",
+        "ordered_at": "2026-09-09T14:16",
+        "delivery_date": "2026-09-10",
+        "status": "DELIVERED",
+        "case_quantity": 2,
+        "split_quantity": 0,
+        "source_files": [
+          "Sep 09 2026 02_16 PM.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "6867230",
+    "description": "Beef Tender Chain Trimmings",
+    "brands": [
+      "PACKER"
+    ],
+    "pack_sizes": [
+      "1/10#AVG"
+    ],
+    "priced_per_lb": true,
+    "purchase_count": 1,
+    "total_case_quantity": 7,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04162284",
+        "ordered_at": "2026-07-18T07:52",
+        "delivery_date": "2026-07-23",
+        "status": "DELIVERED",
+        "case_quantity": 7,
+        "split_quantity": 0,
+        "source_files": [
+          "Jul 18 2026 07_52 AM.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "7303801",
+    "description": "Bread Bun Hamburger Potato 4 Inch",
+    "brands": [
+      "BKRSCLS"
+    ],
+    "pack_sizes": [
+      "10/12 PK"
+    ],
+    "priced_per_lb": false,
+    "purchase_count": 1,
+    "total_case_quantity": 1,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04162284",
+        "ordered_at": "2026-07-18T07:52",
+        "delivery_date": "2026-07-23",
+        "status": "DELIVERED",
+        "case_quantity": 1,
+        "split_quantity": 0,
+        "source_files": [
+          "Jul 18 2026 07_52 AM.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "7116694",
+    "description": "Bread Bun Hotdog 6 Inch Hinged",
+    "brands": [
+      "BKRSCLS"
+    ],
+    "pack_sizes": [
+      "12/12 CT"
+    ],
+    "priced_per_lb": false,
+    "purchase_count": 2,
+    "total_case_quantity": 2,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04128847",
+        "ordered_at": "2026-07-01T14:13",
+        "delivery_date": "2026-07-02",
+        "status": "DELIVERED",
+        "case_quantity": 1,
+        "split_quantity": 0,
+        "source_files": [
+          "Jul 01, 2026 at 2_13 PM.csv"
+        ]
+      },
+      {
+        "order_number": "04222180",
+        "ordered_at": "2026-08-23T18:54",
+        "delivery_date": "2026-08-27",
+        "status": "DELIVERED",
+        "case_quantity": 1,
+        "split_quantity": 0,
+        "source_files": [
+          "Aug 23 2026 06_54 PM.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "7116705",
+    "description": "Bread Pullman White 7/16 Inch Slice",
+    "brands": [
+      "BKRSCLS"
+    ],
+    "pack_sizes": [
+      "10/24 OZ"
+    ],
+    "priced_per_lb": false,
+    "purchase_count": 2,
+    "total_case_quantity": 3,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04128847",
+        "ordered_at": "2026-07-01T14:13",
+        "delivery_date": "2026-07-02",
+        "status": "DELIVERED",
+        "case_quantity": 2,
+        "split_quantity": 0,
+        "source_files": [
+          "Jul 01, 2026 at 2_13 PM.csv"
+        ]
+      },
+      {
+        "order_number": "04254358",
+        "ordered_at": "2026-09-09T14:16",
+        "delivery_date": "2026-09-10",
+        "status": "DELIVERED",
+        "case_quantity": 1,
+        "split_quantity": 0,
+        "source_files": [
+          "Sep 09 2026 02_16 PM.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "7219653",
+    "description": "Bun Hamburger Plain 4 Inches 1.9 Ounces",
+    "brands": [
+      "BKRSCLS"
+    ],
+    "pack_sizes": [
+      "10/12 CT"
+    ],
+    "priced_per_lb": false,
+    "purchase_count": 1,
+    "total_case_quantity": 1,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04222180",
+        "ordered_at": "2026-08-23T18:54",
+        "delivery_date": "2026-08-27",
+        "status": "DELIVERED",
+        "case_quantity": 1,
+        "split_quantity": 0,
+        "source_files": [
+          "Aug 23 2026 06_54 PM.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "7317580",
+    "description": "Chicken Breast Nugget 28-35 Gram Frozen",
+    "brands": [
+      "MARJAC"
+    ],
+    "pack_sizes": [
+      "4/10 LB"
+    ],
+    "priced_per_lb": false,
+    "purchase_count": 1,
+    "total_case_quantity": 2,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04162284",
+        "ordered_at": "2026-07-18T07:52",
+        "delivery_date": "2026-07-23",
+        "status": "DELIVERED",
+        "case_quantity": 2,
+        "split_quantity": 0,
+        "source_files": [
+          "Jul 18 2026 07_52 AM.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "8412780",
+    "description": "Chicken Breast Nuggets Tempura Btr",
+    "brands": [
+      "TYSONRL"
+    ],
+    "pack_sizes": [
+      "2/5LB"
+    ],
+    "priced_per_lb": false,
+    "purchase_count": 1,
+    "total_case_quantity": 3,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04128847",
+        "ordered_at": "2026-07-01T14:13",
+        "delivery_date": "2026-07-02",
+        "status": "DELIVERED",
+        "case_quantity": 3,
+        "split_quantity": 0,
+        "source_files": [
+          "Jul 01, 2026 at 2_13 PM.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "5231238",
+    "description": "Chicken Cvp Breast Boneless-skinless Random Jumbo Marinated",
+    "brands": [
+      "SYS REL"
+    ],
+    "pack_sizes": [
+      "4/10 LB"
+    ],
+    "priced_per_lb": false,
+    "purchase_count": 1,
+    "total_case_quantity": 8,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04261958",
+        "ordered_at": "2026-09-13T19:24",
+        "delivery_date": "2026-09-17",
+        "status": "DELIVERED",
+        "case_quantity": 8,
+        "split_quantity": 0,
+        "source_files": [
+          "Sep 13, 2026 at 7_24 PM (2).csv",
+          "Sep 13, 2026 at 7_24 PM.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "0868459",
+    "description": "Chicken Cvp Leg Meat Boneless Skinless",
+    "brands": [
+      "SYS CLS"
+    ],
+    "pack_sizes": [
+      "4/10 LB"
+    ],
+    "priced_per_lb": false,
+    "purchase_count": 1,
+    "total_case_quantity": 4,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04113252",
+        "ordered_at": "2026-06-23T09:42",
+        "delivery_date": "2026-06-25",
+        "status": "DELIVERED",
+        "case_quantity": 4,
+        "split_quantity": 0,
+        "source_files": [
+          "Jun 23 2026 09_42 AM (1).csv",
+          "Jun 23 2026 09_42 AM.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "9908241",
+    "description": "Chicken Cvp Thigh Boneless Skinless Halal",
+    "brands": [
+      "MTAIRE"
+    ],
+    "pack_sizes": [
+      "4/10 LB"
+    ],
+    "priced_per_lb": false,
+    "purchase_count": 2,
+    "total_case_quantity": 4,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04222180",
+        "ordered_at": "2026-08-23T18:54",
+        "delivery_date": "2026-08-27",
+        "status": "DELIVERED",
+        "case_quantity": 2,
+        "split_quantity": 0,
+        "source_files": [
+          "Aug 23 2026 06_54 PM.csv"
+        ]
+      },
+      {
+        "order_number": "04254358",
+        "ordered_at": "2026-09-09T14:16",
+        "delivery_date": "2026-09-10",
+        "status": "DELIVERED",
+        "case_quantity": 2,
+        "split_quantity": 0,
+        "source_files": [
+          "Sep 09 2026 02_16 PM.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "7126594",
+    "description": "Chicken Cvp Thigh Boneless Skinless Halal Frozen",
+    "brands": [
+      "MTAIRE"
+    ],
+    "pack_sizes": [
+      "4/10 LB"
+    ],
+    "priced_per_lb": false,
+    "purchase_count": 1,
+    "total_case_quantity": 8,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04269371",
+        "ordered_at": "2026-09-16T15:25",
+        "delivery_date": "2026-09-17",
+        "status": "DELIVERED",
+        "case_quantity": 8,
+        "split_quantity": 0,
+        "source_files": [
+          "Sep 16, 2026 at 3_25 PM.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "3774294",
+    "description": "Chicken Cvp Wing 1st And 2nd Jbo Hl Frozen",
+    "brands": [
+      "MTAIRE"
+    ],
+    "pack_sizes": [
+      "4/10 LB"
+    ],
+    "priced_per_lb": false,
+    "purchase_count": 1,
+    "total_case_quantity": 4,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04113252",
+        "ordered_at": "2026-06-23T09:42",
+        "delivery_date": "2026-06-25",
+        "status": "DELIVERED",
+        "case_quantity": 4,
+        "split_quantity": 0,
+        "source_files": [
+          "Jun 23 2026 09_42 AM (1).csv",
+          "Jun 23 2026 09_42 AM.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "7792187",
+    "description": "Chicken Thigh Boneless Skinless Controlled Vac",
+    "brands": [
+      "SYS CLS"
+    ],
+    "pack_sizes": [
+      "4/10 LB"
+    ],
+    "priced_per_lb": false,
+    "purchase_count": 1,
+    "total_case_quantity": 2,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04242280",
+        "ordered_at": "2026-09-02T16:27",
+        "delivery_date": "2026-09-03",
+        "status": "DELIVERED",
+        "case_quantity": 2,
+        "split_quantity": 0,
+        "source_files": [
+          "Sep 02 2026 04_27 PM.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "7267501",
+    "description": "Chicken Thigh Boneless Skinless Random Chunk",
+    "brands": [
+      "BHB/NPM"
+    ],
+    "pack_sizes": [
+      "2/5 LB"
+    ],
+    "priced_per_lb": true,
+    "purchase_count": 1,
+    "total_case_quantity": 8,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04261959",
+        "ordered_at": "2026-09-13T19:24",
+        "delivery_date": "2026-09-17",
+        "status": "DELIVERED",
+        "case_quantity": 8,
+        "split_quantity": 0,
+        "source_files": [
+          "Sep 13, 2026 at 7_24 PM (1).csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "2870400",
+    "description": "Cookie Chocolate Chip 288 Count",
+    "brands": [
+      "SYS CLS"
+    ],
+    "pack_sizes": [
+      "12/12 OZ"
+    ],
+    "priced_per_lb": false,
+    "purchase_count": 1,
+    "total_case_quantity": 4,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04128847",
+        "ordered_at": "2026-07-01T14:13",
+        "delivery_date": "2026-07-02",
+        "status": "DELIVERED",
+        "case_quantity": 4,
+        "split_quantity": 0,
+        "source_files": [
+          "Jul 01, 2026 at 2_13 PM.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "2105849",
+    "description": "Egg In-shell Extra-large Grade Aa Usda White",
+    "brands": [
+      "WHLFCLS"
+    ],
+    "pack_sizes": [
+      "1/15 DZ"
+    ],
+    "priced_per_lb": false,
+    "purchase_count": 2,
+    "total_case_quantity": 3,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04113252",
+        "ordered_at": "2026-06-23T09:42",
+        "delivery_date": "2026-06-25",
+        "status": "DELIVERED",
+        "case_quantity": 2,
+        "split_quantity": 0,
+        "source_files": [
+          "Jun 23 2026 09_42 AM (1).csv",
+          "Jun 23 2026 09_42 AM.csv"
+        ]
+      },
+      {
+        "order_number": "04147582",
+        "ordered_at": "2026-07-12T09:48",
+        "delivery_date": "2026-07-16",
+        "status": "DELIVERED",
+        "case_quantity": 1,
+        "split_quantity": 0,
+        "source_files": [
+          "Jul 12 2026 09_48 AM (1).csv",
+          "Jul 12 2026 09_48 AM.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "4765226",
+    "description": "Egg Shell Extra Large Grade Aa White Usda",
+    "brands": [
+      "WHLFCLS"
+    ],
+    "pack_sizes": [
+      "1/30 DZ"
+    ],
+    "priced_per_lb": false,
+    "purchase_count": 3,
+    "total_case_quantity": 6,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04128847",
+        "ordered_at": "2026-07-01T14:13",
+        "delivery_date": "2026-07-02",
+        "status": "DELIVERED",
+        "case_quantity": 1,
+        "split_quantity": 0,
+        "source_files": [
+          "Jul 01, 2026 at 2_13 PM.csv"
+        ]
+      },
+      {
+        "order_number": "04254358",
+        "ordered_at": "2026-09-09T14:16",
+        "delivery_date": "2026-09-10",
+        "status": "DELIVERED",
+        "case_quantity": 3,
+        "split_quantity": 0,
+        "source_files": [
+          "Sep 09 2026 02_16 PM.csv"
+        ]
+      },
+      {
+        "order_number": "04261958",
+        "ordered_at": "2026-09-13T19:24",
+        "delivery_date": "2026-09-17",
+        "status": "DELIVERED",
+        "case_quantity": 2,
+        "split_quantity": 0,
+        "source_files": [
+          "Sep 13, 2026 at 7_24 PM (2).csv",
+          "Sep 13, 2026 at 7_24 PM.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "4152932",
+    "description": "Frank All Beef 6x1 Frozen",
+    "brands": [
+      "BERKS"
+    ],
+    "pack_sizes": [
+      "1/10 LB"
+    ],
+    "priced_per_lb": false,
+    "purchase_count": 1,
+    "total_case_quantity": 4,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04222180",
+        "ordered_at": "2026-08-23T18:54",
+        "delivery_date": "2026-08-27",
+        "status": "DELIVERED",
+        "case_quantity": 4,
+        "split_quantity": 0,
+        "source_files": [
+          "Aug 23 2026 06_54 PM.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "2327740",
+    "description": "Milk Whole Homogenized",
+    "brands": [
+      "WHLFCLS"
+    ],
+    "pack_sizes": [
+      "4/1GAL"
+    ],
+    "priced_per_lb": false,
+    "purchase_count": 8,
+    "total_case_quantity": 46,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04128847",
+        "ordered_at": "2026-07-01T14:13",
+        "delivery_date": "2026-07-02",
+        "status": "DELIVERED",
+        "case_quantity": 5,
+        "split_quantity": 0,
+        "source_files": [
+          "Jul 01, 2026 at 2_13 PM.csv"
+        ]
+      },
+      {
+        "order_number": "04147582",
+        "ordered_at": "2026-07-12T09:48",
+        "delivery_date": "2026-07-16",
+        "status": "DELIVERED",
+        "case_quantity": 6,
+        "split_quantity": 0,
+        "source_files": [
+          "Jul 12 2026 09_48 AM (1).csv",
+          "Jul 12 2026 09_48 AM.csv"
+        ]
+      },
+      {
+        "order_number": "04162284",
+        "ordered_at": "2026-07-18T07:52",
+        "delivery_date": "2026-07-23",
+        "status": "DELIVERED",
+        "case_quantity": 6,
+        "split_quantity": 0,
+        "source_files": [
+          "Jul 18 2026 07_52 AM.csv"
+        ]
+      },
+      {
+        "order_number": "04172513",
+        "ordered_at": "2026-07-26T16:23",
+        "delivery_date": "2026-07-30",
+        "status": "DELIVERED",
+        "case_quantity": 5,
+        "split_quantity": 0,
+        "source_files": [
+          "Jul 26, 2026 at 4_23 PM.csv"
+        ]
+      },
+      {
+        "order_number": "04224593",
+        "ordered_at": "2026-08-24T18:48",
+        "delivery_date": "2026-08-27",
+        "status": "DELIVERED",
+        "case_quantity": 6,
+        "split_quantity": 0,
+        "source_files": [
+          "Aug 24 2026 06_48 PM.csv"
+        ]
+      },
+      {
+        "order_number": "04242280",
+        "ordered_at": "2026-09-02T16:27",
+        "delivery_date": "2026-09-03",
+        "status": "DELIVERED",
+        "case_quantity": 6,
+        "split_quantity": 0,
+        "source_files": [
+          "Sep 02 2026 04_27 PM.csv"
+        ]
+      },
+      {
+        "order_number": "04254358",
+        "ordered_at": "2026-09-09T14:16",
+        "delivery_date": "2026-09-10",
+        "status": "DELIVERED",
+        "case_quantity": 6,
+        "split_quantity": 0,
+        "source_files": [
+          "Sep 09 2026 02_16 PM.csv"
+        ]
+      },
+      {
+        "order_number": "04261958",
+        "ordered_at": "2026-09-13T19:24",
+        "delivery_date": "2026-09-17",
+        "status": "DELIVERED",
+        "case_quantity": 6,
+        "split_quantity": 0,
+        "source_files": [
+          "Sep 13, 2026 at 7_24 PM (2).csv",
+          "Sep 13, 2026 at 7_24 PM.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "1094663",
+    "description": "Onion Red Jumbo Bag",
+    "brands": [
+      "IMPFRSH"
+    ],
+    "pack_sizes": [
+      "1/25LB"
+    ],
+    "priced_per_lb": false,
+    "purchase_count": 4,
+    "total_case_quantity": 4,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04113252",
+        "ordered_at": "2026-06-23T09:42",
+        "delivery_date": "2026-06-25",
+        "status": "DELIVERED",
+        "case_quantity": 1,
+        "split_quantity": 0,
+        "source_files": [
+          "Jun 23 2026 09_42 AM (1).csv",
+          "Jun 23 2026 09_42 AM.csv"
+        ]
+      },
+      {
+        "order_number": "04147582",
+        "ordered_at": "2026-07-12T09:48",
+        "delivery_date": "2026-07-16",
+        "status": "DELIVERED",
+        "case_quantity": 1,
+        "split_quantity": 0,
+        "source_files": [
+          "Jul 12 2026 09_48 AM (1).csv",
+          "Jul 12 2026 09_48 AM.csv"
+        ]
+      },
+      {
+        "order_number": "04222180",
+        "ordered_at": "2026-08-23T18:54",
+        "delivery_date": "2026-08-27",
+        "status": "DELIVERED",
+        "case_quantity": 1,
+        "split_quantity": 0,
+        "source_files": [
+          "Aug 23 2026 06_54 PM.csv"
+        ]
+      },
+      {
+        "order_number": "04261958",
+        "ordered_at": "2026-09-13T19:24",
+        "delivery_date": "2026-09-17",
+        "status": "DELIVERED",
+        "case_quantity": 1,
+        "split_quantity": 0,
+        "source_files": [
+          "Sep 13, 2026 at 7_24 PM (2).csv",
+          "Sep 13, 2026 at 7_24 PM.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "8877383",
+    "description": "Onion Yellow Super Colossal Box",
+    "brands": [
+      "IMPFRSH"
+    ],
+    "pack_sizes": [
+      "1/50 LB"
+    ],
+    "priced_per_lb": false,
+    "purchase_count": 1,
+    "total_case_quantity": 1,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04261958",
+        "ordered_at": "2026-09-13T19:24",
+        "delivery_date": "2026-09-17",
+        "status": "DELIVERED",
+        "case_quantity": 1,
+        "split_quantity": 0,
+        "source_files": [
+          "Sep 13, 2026 at 7_24 PM (2).csv",
+          "Sep 13, 2026 at 7_24 PM.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "7077655",
+    "description": "Pangasius Filet Iqf 5-7 Ounce",
+    "brands": [
+      "PORTCLS"
+    ],
+    "pack_sizes": [
+      "1/15LB"
+    ],
+    "priced_per_lb": false,
+    "purchase_count": 1,
+    "total_case_quantity": 3,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04242280",
+        "ordered_at": "2026-09-02T16:27",
+        "delivery_date": "2026-09-03",
+        "status": "DELIVERED",
+        "case_quantity": 3,
+        "split_quantity": 0,
+        "source_files": [
+          "Sep 02 2026 04_27 PM.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "7077653",
+    "description": "Pangasius Filet Iqf 7-9 Ounce",
+    "brands": [
+      "PORTCLS"
+    ],
+    "pack_sizes": [
+      "1/15LB"
+    ],
+    "priced_per_lb": false,
+    "purchase_count": 1,
+    "total_case_quantity": 3,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04147582",
+        "ordered_at": "2026-07-12T09:48",
+        "delivery_date": "2026-07-16",
+        "status": "DELIVERED",
+        "case_quantity": 3,
+        "split_quantity": 0,
+        "source_files": [
+          "Jul 12 2026 09_48 AM (1).csv",
+          "Jul 12 2026 09_48 AM.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "4862983",
+    "description": "Pasta Spaghetti 10\"",
+    "brands": [
+      "LABELLA"
+    ],
+    "pack_sizes": [
+      "2/10 LB"
+    ],
+    "priced_per_lb": false,
+    "purchase_count": 1,
+    "total_case_quantity": 1,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04128847",
+        "ordered_at": "2026-07-01T14:13",
+        "delivery_date": "2026-07-02",
+        "status": "DELIVERED",
+        "case_quantity": 1,
+        "split_quantity": 0,
+        "source_files": [
+          "Jul 01, 2026 at 2_13 PM.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "9791864",
+    "description": "Pork Bone Brisket Select",
+    "brands": [
+      "SWIFT"
+    ],
+    "pack_sizes": [
+      "5/5#AV"
+    ],
+    "priced_per_lb": true,
+    "purchase_count": 2,
+    "total_case_quantity": 7,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04242280",
+        "ordered_at": "2026-09-02T16:27",
+        "delivery_date": "2026-09-03",
+        "status": "DELIVERED",
+        "case_quantity": 4,
+        "split_quantity": 0,
+        "source_files": [
+          "Sep 02 2026 04_27 PM.csv"
+        ]
+      },
+      {
+        "order_number": "04261958",
+        "ordered_at": "2026-09-13T19:24",
+        "delivery_date": "2026-09-17",
+        "status": "DELIVERED",
+        "case_quantity": 3,
+        "split_quantity": 0,
+        "source_files": [
+          "Sep 13, 2026 at 7_24 PM (2).csv",
+          "Sep 13, 2026 at 7_24 PM.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "6277869",
+    "description": "Pork Butt Bone-in .25 8-12# Each Frozen",
+    "brands": [
+      "BCH BLK"
+    ],
+    "pack_sizes": [
+      "4/2 PC"
+    ],
+    "priced_per_lb": true,
+    "purchase_count": 1,
+    "total_case_quantity": 2,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04261958",
+        "ordered_at": "2026-09-13T19:24",
+        "delivery_date": "2026-09-17",
+        "status": "DELIVERED",
+        "case_quantity": 2,
+        "split_quantity": 0,
+        "source_files": [
+          "Sep 13, 2026 at 7_24 PM (2).csv",
+          "Sep 13, 2026 at 7_24 PM.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "6268799",
+    "description": "Pork Butt Boneless .25 6-9# Each  Frozen",
+    "brands": [
+      "BCH BLK"
+    ],
+    "pack_sizes": [
+      "8/6-9#AV"
+    ],
+    "priced_per_lb": true,
+    "purchase_count": 1,
+    "total_case_quantity": 2,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04128847",
+        "ordered_at": "2026-07-01T14:13",
+        "delivery_date": "2026-07-02",
+        "status": "DELIVERED",
+        "case_quantity": 2,
+        "split_quantity": 0,
+        "source_files": [
+          "Jul 01, 2026 at 2_13 PM.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "6046902",
+    "description": "Pork Butt Boneless 1/4 7-10 Pounds Each Fresh",
+    "brands": [
+      "BCH BLK"
+    ],
+    "pack_sizes": [
+      "8/7-10#"
+    ],
+    "priced_per_lb": true,
+    "purchase_count": 1,
+    "total_case_quantity": 1,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04242280",
+        "ordered_at": "2026-09-02T16:27",
+        "delivery_date": "2026-09-03",
+        "status": "DELIVERED",
+        "case_quantity": 1,
+        "split_quantity": 0,
+        "source_files": [
+          "Sep 02 2026 04_27 PM.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "5807662",
+    "description": "Pork Ground 80%-20% Fine",
+    "brands": [
+      "BCH BLK"
+    ],
+    "pack_sizes": [
+      "2/5LB"
+    ],
+    "priced_per_lb": false,
+    "purchase_count": 2,
+    "total_case_quantity": 9,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04128847",
+        "ordered_at": "2026-07-01T14:13",
+        "delivery_date": "2026-07-02",
+        "status": "DELIVERED",
+        "case_quantity": 5,
+        "split_quantity": 0,
+        "source_files": [
+          "Jul 01, 2026 at 2_13 PM.csv"
+        ]
+      },
+      {
+        "order_number": "04261958",
+        "ordered_at": "2026-09-13T19:24",
+        "delivery_date": "2026-09-17",
+        "status": "DELIVERED",
+        "case_quantity": 4,
+        "split_quantity": 0,
+        "source_files": [
+          "Sep 13, 2026 at 7_24 PM (2).csv",
+          "Sep 13, 2026 at 7_24 PM.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "7210048",
+    "description": "Pork Spare Rib 5.2 Dn Ultra Tr Frozen",
+    "brands": [
+      "CHM RSV"
+    ],
+    "pack_sizes": [
+      "3/3 PC"
+    ],
+    "priced_per_lb": true,
+    "purchase_count": 1,
+    "total_case_quantity": 5,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04172513",
+        "ordered_at": "2026-07-26T16:23",
+        "delivery_date": "2026-07-30",
+        "status": "DELIVERED",
+        "case_quantity": 5,
+        "split_quantity": 0,
+        "source_files": [
+          "Jul 26, 2026 at 4_23 PM.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "1543164",
+    "description": "Potato Baking Russet 40 Count Fresh",
+    "brands": [
+      "IMPFRSH"
+    ],
+    "pack_sizes": [
+      "1/50LB"
+    ],
+    "priced_per_lb": false,
+    "purchase_count": 2,
+    "total_case_quantity": 2,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04113252",
+        "ordered_at": "2026-06-23T09:42",
+        "delivery_date": "2026-06-25",
+        "status": "DELIVERED",
+        "case_quantity": 1,
+        "split_quantity": 0,
+        "source_files": [
+          "Jun 23 2026 09_42 AM (1).csv",
+          "Jun 23 2026 09_42 AM.csv"
+        ]
+      },
+      {
+        "order_number": "04162284",
+        "ordered_at": "2026-07-18T07:52",
+        "delivery_date": "2026-07-23",
+        "status": "DELIVERED",
+        "case_quantity": 1,
+        "split_quantity": 0,
+        "source_files": [
+          "Jul 18 2026 07_52 AM.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "1008499",
+    "description": "Potato Baking Russet 50 Count Fresh",
+    "brands": [
+      "IMPFRSH"
+    ],
+    "pack_sizes": [
+      "1/50LB"
+    ],
+    "priced_per_lb": false,
+    "purchase_count": 1,
+    "total_case_quantity": 1,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04254358",
+        "ordered_at": "2026-09-09T14:16",
+        "delivery_date": "2026-09-10",
+        "status": "DELIVERED",
+        "case_quantity": 1,
+        "split_quantity": 0,
+        "source_files": [
+          "Sep 09 2026 02_16 PM.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "7378851",
+    "description": "Potato Fry Straight 3/8 Inch Economy",
+    "brands": [
+      "SYS REL"
+    ],
+    "pack_sizes": [
+      "6/4 LB"
+    ],
+    "priced_per_lb": false,
+    "purchase_count": 1,
+    "total_case_quantity": 3,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04128847",
+        "ordered_at": "2026-07-01T14:13",
+        "delivery_date": "2026-07-02",
+        "status": "DELIVERED",
+        "case_quantity": 3,
+        "split_quantity": 0,
+        "source_files": [
+          "Jul 01, 2026 at 2_13 PM.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "5848072",
+    "description": "Rice 103 Long Grain",
+    "brands": [
+      "JDMTCLS"
+    ],
+    "pack_sizes": [
+      "1/50 LB"
+    ],
+    "priced_per_lb": false,
+    "purchase_count": 3,
+    "total_case_quantity": 9,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04113252",
+        "ordered_at": "2026-06-23T09:42",
+        "delivery_date": "2026-06-25",
+        "status": "DELIVERED",
+        "case_quantity": 3,
+        "split_quantity": 0,
+        "source_files": [
+          "Jun 23 2026 09_42 AM (1).csv",
+          "Jun 23 2026 09_42 AM.csv"
+        ]
+      },
+      {
+        "order_number": "04162284",
+        "ordered_at": "2026-07-18T07:52",
+        "delivery_date": "2026-07-23",
+        "status": "DELIVERED",
+        "case_quantity": 3,
+        "split_quantity": 0,
+        "source_files": [
+          "Jul 18 2026 07_52 AM.csv"
+        ]
+      },
+      {
+        "order_number": "04172513",
+        "ordered_at": "2026-07-26T16:23",
+        "delivery_date": "2026-07-30",
+        "status": "DELIVERED",
+        "case_quantity": 3,
+        "split_quantity": 0,
+        "source_files": [
+          "Jul 26, 2026 at 4_23 PM.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "4671434",
+    "description": "Rice Long Grain 4% Broken",
+    "brands": [
+      "SYS CLS"
+    ],
+    "pack_sizes": [
+      "1/50LB"
+    ],
+    "priced_per_lb": false,
+    "purchase_count": 1,
+    "total_case_quantity": 3,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04261958",
+        "ordered_at": "2026-09-13T19:24",
+        "delivery_date": "2026-09-17",
+        "status": "DELIVERED",
+        "case_quantity": 3,
+        "split_quantity": 0,
+        "source_files": [
+          "Sep 13, 2026 at 7_24 PM (2).csv",
+          "Sep 13, 2026 at 7_24 PM.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "4518403",
+    "description": "Shortening Fry Liquid Clear Zero Trans Fat",
+    "brands": [
+      "SYS REL"
+    ],
+    "pack_sizes": [
+      "1/35LB"
+    ],
+    "priced_per_lb": false,
+    "purchase_count": 5,
+    "total_case_quantity": 16,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04113252",
+        "ordered_at": "2026-06-23T09:42",
+        "delivery_date": "2026-06-25",
+        "status": "DELIVERED",
+        "case_quantity": 3,
+        "split_quantity": 0,
+        "source_files": [
+          "Jun 23 2026 09_42 AM (1).csv",
+          "Jun 23 2026 09_42 AM.csv"
+        ]
+      },
+      {
+        "order_number": "04147582",
+        "ordered_at": "2026-07-12T09:48",
+        "delivery_date": "2026-07-16",
+        "status": "DELIVERED",
+        "case_quantity": 4,
+        "split_quantity": 0,
+        "source_files": [
+          "Jul 12 2026 09_48 AM (1).csv",
+          "Jul 12 2026 09_48 AM.csv"
+        ]
+      },
+      {
+        "order_number": "04222180",
+        "ordered_at": "2026-08-23T18:54",
+        "delivery_date": "2026-08-27",
+        "status": "DELIVERED",
+        "case_quantity": 3,
+        "split_quantity": 0,
+        "source_files": [
+          "Aug 23 2026 06_54 PM.csv"
+        ]
+      },
+      {
+        "order_number": "04254358",
+        "ordered_at": "2026-09-09T14:16",
+        "delivery_date": "2026-09-10",
+        "status": "DELIVERED",
+        "case_quantity": 4,
+        "split_quantity": 0,
+        "source_files": [
+          "Sep 09 2026 02_16 PM.csv"
+        ]
+      },
+      {
+        "order_number": "04261958",
+        "ordered_at": "2026-09-13T19:24",
+        "delivery_date": "2026-09-17",
+        "status": "DELIVERED",
+        "case_quantity": 2,
+        "split_quantity": 0,
+        "source_files": [
+          "Sep 13, 2026 at 7_24 PM (2).csv",
+          "Sep 13, 2026 at 7_24 PM.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "supc": "4782694",
+    "description": "Sugar Granulated Extra Fine Cane",
+    "brands": [
+      "SYS CLS"
+    ],
+    "pack_sizes": [
+      "1/50LB"
+    ],
+    "priced_per_lb": false,
+    "purchase_count": 1,
+    "total_case_quantity": 1,
+    "total_split_quantity": 0,
+    "purchases": [
+      {
+        "order_number": "04172513",
+        "ordered_at": "2026-07-26T16:23",
+        "delivery_date": "2026-07-30",
+        "status": "DELIVERED",
+        "case_quantity": 1,
+        "split_quantity": 0,
+        "source_files": [
+          "Jul 26, 2026 at 4_23 PM.csv"
+        ]
+      }
+    ]
+  }
+]
