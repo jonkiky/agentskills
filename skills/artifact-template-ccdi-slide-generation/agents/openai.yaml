@@ -1,0 +1,7 @@
+interface:
+  display_name: "CCDI Slide Generation"
+  short_description: "CCDI styling with diagrams and minimal slide text"
+  icon_large: "./assets/preview.png"
+  default_prompt: "Use $artifact-template-ccdi-slide-generation to create slides in the CCDI style, emphasizing diagrams over wording."
+policy:
+  allow_implicit_invocation: true
