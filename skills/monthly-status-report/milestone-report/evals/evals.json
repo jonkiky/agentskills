@@ -1,0 +1,39 @@
+{
+  "skill_name": "milestone-report",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Regenerate October milestones for INS, CPI and cBioPortal. Use short summarized statuses and no ticket IDs.",
+      "expectations": [
+        "Only INS, CPI, cBioPortal appear in both Subproject columns",
+        "Statuses are complete evidence-based summaries of no more than 24 words without truncation",
+        "Names have no JIRA issue numbers",
+        "Major events only in milestones; routine release-note tasks excluded",
+        "Cached October reporting snapshot is preserved"
+      ]
+    },
+    {
+      "id": 2,
+      "prompt": "Report deliverables from closed, testing, and ready-for-review records, removing duplicates and unfinished work.",
+      "expectations": [
+        "Cancelled and no-change closures excluded",
+        "Development-validated and implemented QA items included with accurate qualifications",
+        "Draft research/design and contradicted QA-ready defects excluded",
+        "Parent and child tasks consolidated into one supported outcome",
+        "Old completions updated this month are not new deliveries"
+      ]
+    },
+    {
+      "id": 3,
+      "prompt": "Generate the Word report from a reviewed plan. Follow the template strictly; do not style the tables.",
+      "expectations": [
+        "Only the first table row is marked as a repeating header",
+        "Bundled Markdown template produces plain Table Grid tables with bold column headers and default text formatting",
+        "No added header colors, cell shading, alternating row colors, custom fonts, borders, padding, alignment, or column widths",
+        "Template header block, headings, column labels, and order are preserved without added explanatory sections or page headers/footers",
+        "User-supplied template formatting takes precedence over generic document-design guidance",
+        "DOCX rendered and every output page checked for readability and template fidelity"
+      ]
+    }
+  ]
+}
