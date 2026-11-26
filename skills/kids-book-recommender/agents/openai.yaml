@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kids Book Recommender"
+  short_description: "Discover great children's books from trusted sources"
+  default_prompt: "Recommend six children's books for my reader using independent book lists and reviews, and check library options if I specify a library."
